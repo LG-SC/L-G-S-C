@@ -21,7 +21,7 @@
 
 - :speech_balloon: Bilingue (Autoditata em Inglês).
 - :mortar_board: Estudante de ADS na [UNASP](http://https://www.unasp.br "UNASP").
-- :desktop_computer: Atualmente atuando como desenvolvedor estágiario na [ServCredi](http://www.servcredi.com.br)
+- :desktop_computer: Atualmente atuando como desenvolvedor estágiario na [ServCredi](http://www.servcredi.com.br/principal.html)
 - :book: Atualmente aprendendo a trabalhar com ferramentas de teste (Pytest, Selenium for Python, e JUnit); aprendendo programação mobile com Flutter; Aprendendo à criar dashboards e tratar dados com PowerBI; Utilizando Microsoft SQL Server, MySQL, ASP.NET e VB.NET no meu estágio; e também afiando minhas habilidades com Python e Lua para meus projetos a parte.
 - :exclamation: Atualmente perseguindo projetos pessoais involvendo meu hobby como GameDev no meu tempo livre.
 - :mag: Apesar de estar empregado no momento, estou aberto à propostas de trabalho freelance e propostas de colaborações em projetos.
@@ -33,7 +33,7 @@
 
 - :speech_balloon: Bilingual (English learnt autodidactically).
 - :mortar_board: I'm a System Analysis and Development student at [UNASP](http://https://www.unasp.br "UNASP").
-- :desktop_computer: Currently an intern at [ServCredi](http://www.servcredi.com.br), working as a developer.
+- :desktop_computer: Currently an intern at [ServCredi](http://www.servcredi.com.br/principal.html), working as a developer.
 - :book: Currently learning how to utilize testing software(PyTest and Selenium for Python, and JUnit); learning mobile development with Flutter; Learning how to manage data and creating dashboards with PowerBI; Utilizing Microsoft SQL Server, MySQL, ASP.NET e VB.NET on my intern work; and also honing my skills with Python and Lua for my side-projects.
 - :exclamation: Currently pursuing personal projects involving my GameDev hobby in my free time.
 - :mag: Even though I am currently employed, I'm still open to freelance job offers and collaboration offers in projects.
