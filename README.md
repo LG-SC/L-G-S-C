@@ -1,6 +1,6 @@
 <div id="TITLE">
   <h2>Luiz Gustavo Santos da Costa</h2>
-  <a href="https://www.linkedin.com/in/LGSC000/"><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Gustavo%20S.Costa-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/LG-SC/"><img src="https://img.shields.io/badge/LinkedIn-Luiz%20Gustavo%20S.Costa-blue?style=flat-square&logo=linkedin"/></a>
   <a href="mailto:luizgustavoscosta.workmail@gmail.com"><img src="https://img.shields.io/badge/E--Mail-luizgustavoscosta.workmail%40gmail.com-blue?style=flat-square&logo=gmail"/></a>
 </div>
 
